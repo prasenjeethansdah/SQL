@@ -26,5 +26,3 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
     salary_year_avg DESC;
 
-/*The top three demanded skills are SQL (88.9%), Python (55.6%), and NoSQL/Tableau (44.4% each). SQL is clearly the most essential skill, while Python is the second most demanded. Other notable skills include Azure, Databricks, Spark, Java, and Power BI, each appearing in about one-third of the jobs, showing the importance of cloud computing, big-data technologies, programming, and data visualization in high-paying data roles.
-*/
