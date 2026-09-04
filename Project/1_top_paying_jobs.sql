@@ -1,9 +1,4 @@
-/*
-Question: What are the top paying jobs?
-- Identify the 10 top paying jobs according to your choice that are available remotely.
-- Focuses on job postings with specified salaries (remove nulls).
-- Why? Highlight the top paying oppurtunities for jobs, offering insight into 
-*/
+
 
 SELECT
     job_id,
